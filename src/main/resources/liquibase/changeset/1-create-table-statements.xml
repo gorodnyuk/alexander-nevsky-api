@@ -21,15 +21,13 @@
             <column name="value_ru"
                     type="varchar(5000)"
                     remarks="Высказывание Невского на русском языке">
-                <constraints nullable="false"
-                             unique="true"/>
+                <constraints nullable="false"/>
             </column>
 
             <column name="value_en"
                     type="varchar(5000)"
                     remarks="Высказывание Невского на английском языке">
-                <constraints nullable="false"
-                             unique="true"/>
+                <constraints nullable="false"/>
             </column>
 
         </createTable>
