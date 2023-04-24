@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="2-insert-some-statements" author="Sergey Gorodnyuk">
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Абсолютли!"/>
+            <column name="value_en" value="Absolutely!"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Уот так уот"/>
+            <column name="value_en" value="Like this"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Невский"/>
+            <column name="value_en" value="Schwarzenegger"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Ю кен дуит эвривэр"/>
+            <column name="value_en" value="You can do it everywhere"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Райт нау итс вэри популар ол эраунд дэ ворлд"/>
+            <column name="value_en" value="Right now it's very popular all around the world"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Хау ту трэйн?"/>
+            <column name="value_en" value="How to train?"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Иф ю вона ченч йо лайф, иф ю вона ченч ю бади, дуит. Ю изили кен дуит"/>
+            <column name="value_en"
+                    value="If you wanna change you life, if you wanna change you body, do it. You easily can do it"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Я никогда анаболики не принимал и в каждом моем интервью, включая надеюсь это, я пропагондирую именно натуральный бодибилдинг"/>
+            <column name="value_en"
+                    value="I have never taken anabolics and in every interview, including hoping this, I promote natural bodybuilding"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Я не знаю чем будет брать, ненене"/>
+            <column name="value_en" value="I don't know what to take, nonono"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="А теперь камеру нужно уже выключить, спасибо"/>
+            <column name="value_en" value="And now the camera should already be turned off, thanks"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Хорошо видно бицепс?"/>
+            <column name="value_en" value="Can you see my biceps?"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Как бицепс выглядит?"/>
+            <column name="value_en" value="What does my bicep look like?"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Ми тю"/>
+            <column name="value_en" value="Me too"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Шварцнеггер сидит там, меня этим самым, локлем, значит, говорит, слушай ну класно!"/>
+            <column name="value_en"
+                    value="Schwarzenegger is sitting there, with this same elbow, so he says, listen, well, that's great!"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Ю вона плэй? Лэтс плэй!"/>
+            <column name="value_en" value="You wanna play? Let's play!"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Хочешь поиграть? Давай поиграем!"/>
+            <column name="value_en" value="You wanna play? Let's play!"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Шварцнеггер приехал, он смотрел и ему понравилось. Москва ему понравилась. Я ему понравился."/>
+            <column name="value_en"
+                    value="Schwarzenegger came, he looked and he liked it. He liked Moscow. He liked me."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Ю шут стап вэйтинг. Джаст гоу энд дуит энд джаст герыт!"/>
+            <column name="value_en" value="You should stop waiting. Just go and do it and just get it!"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Как стать Шварцнеггером в России? Ну я стал так или иначе."/>
+            <column name="value_en"
+                    value="How to become a Schwarzenegger in Russia? Well, I became one way or another."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Я был и папой и мамой"/>
+            <column name="value_en" value="I was both mom and dad"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Шварцнеггер"/>
+            <column name="value_en" value="Nevsky"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Ты IMDB не смотри, смотри профессиональные сайты, ну, к примеру, кинопоиск"/>
+            <column name="value_en"
+                    value="You do not watch IMDB, watch professional sites, well, for example, kinopoisk"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Я занимался с гирями и гантелями, когда нашел их"/>
+            <column name="value_en" value="I was training with kettlebells and dumbbells when I found them"/>
+        </insert>
+
+    </changeSet>
+
+</databaseChangeLog>

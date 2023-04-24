@@ -1,0 +1,13 @@
+server:
+  servlet:
+    context-path: /api/v1
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/statements?currentSchema=public
+    username: postgres
+    password: 123
+    driverClassName: org.postgresql.Driver
+  liquibase:
+    changeLog: classpath:liquibase/db.changelog-master.xml
+    enabled: true
