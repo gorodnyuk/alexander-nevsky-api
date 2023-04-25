@@ -13,23 +13,23 @@
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="Уот так уот"/>
-            <column name="value_en" value="Like this"/>
+            <column name="value_ru" value="Уот так уот."/>
+            <column name="value_en" value="Like this."/>
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="Невский"/>
-            <column name="value_en" value="Schwarzenegger"/>
+            <column name="value_ru" value="Невский."/>
+            <column name="value_en" value="Schwarzenegger."/>
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="Ю кен дуит эвривэр"/>
-            <column name="value_en" value="You can do it everywhere"/>
+            <column name="value_ru" value="Ю кен дуит эвривэр."/>
+            <column name="value_en" value="You can do it everywhere."/>
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="Райт нау итс вэри популар ол эраунд дэ ворлд"/>
-            <column name="value_en" value="Right now it's very popular all around the world"/>
+            <column name="value_ru" value="Райт нау итс вэри популар ол эраунд дэ ворлд."/>
+            <column name="value_en" value="Right now it's very popular all around the world."/>
         </insert>
 
         <insert tableName="statements">
@@ -38,26 +38,26 @@
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="Иф ю вона ченч йо лайф, иф ю вона ченч ю бади, дуит. Ю изили кен дуит"/>
+            <column name="value_ru" value="Иф ю вона ченч йо лайф, иф ю вона ченч ю бади, дуит. Ю изили кен дуит."/>
             <column name="value_en"
-                    value="If you wanna change you life, if you wanna change you body, do it. You easily can do it"/>
+                    value="If you wanna change you life, if you wanna change you body, do it. You easily can do it."/>
         </insert>
 
         <insert tableName="statements">
             <column name="value_ru"
-                    value="Я никогда анаболики не принимал и в каждом моем интервью, включая надеюсь это, я пропагондирую именно натуральный бодибилдинг"/>
+                    value="Я никогда анаболики не принимал и в каждом моем интервью, включая надеюсь это, я пропагондирую именно натуральный бодибилдинг."/>
             <column name="value_en"
-                    value="I have never taken anabolics and in every interview, including hoping this, I promote natural bodybuilding"/>
+                    value="I have never taken anabolics and in every interview, including hoping this, I promote natural bodybuilding."/>
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="Я не знаю чем будет брать, ненене"/>
-            <column name="value_en" value="I don't know what to take, nonono"/>
+            <column name="value_ru" value="Я не знаю чем будет брать, ненене."/>
+            <column name="value_en" value="I don't know what to take, nonono."/>
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="А теперь камеру нужно уже выключить, спасибо"/>
-            <column name="value_en" value="And now the camera should already be turned off, thanks"/>
+            <column name="value_ru" value="А теперь камеру нужно уже выключить, спасибо."/>
+            <column name="value_en" value="And now the camera should already be turned off, thanks."/>
         </insert>
 
         <insert tableName="statements">
@@ -71,8 +71,8 @@
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="Ми тю"/>
-            <column name="value_en" value="Me too"/>
+            <column name="value_ru" value="Ми тю."/>
+            <column name="value_en" value="Me too."/>
         </insert>
 
         <insert tableName="statements">
@@ -111,24 +111,35 @@
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="Я был и папой и мамой"/>
-            <column name="value_en" value="I was both mom and dad"/>
+            <column name="value_ru" value="Я был и папой и мамой."/>
+            <column name="value_en" value="I was both mom and dad."/>
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="Шварцнеггер"/>
-            <column name="value_en" value="Nevsky"/>
+            <column name="value_ru" value="Шварцнеггер."/>
+            <column name="value_en" value="Nevsky."/>
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="Ты IMDB не смотри, смотри профессиональные сайты, ну, к примеру, кинопоиск"/>
+            <column name="value_ru"
+                    value="Ты IMDB не смотри, смотри профессиональные сайты, ну, к примеру, кинопоиск."/>
             <column name="value_en"
-                    value="You do not watch IMDB, watch professional sites, well, for example, kinopoisk"/>
+                    value="You do not watch IMDB, watch professional sites, well, for example, kinopoisk."/>
         </insert>
 
         <insert tableName="statements">
-            <column name="value_ru" value="Я занимался с гирями и гантелями, когда нашел их"/>
-            <column name="value_en" value="I was training with kettlebells and dumbbells when I found them"/>
+            <column name="value_ru" value="Я занимался с гирями и гантелями, когда нашел их."/>
+            <column name="value_en" value="I was training with kettlebells and dumbbells when I found them."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Бодибилдерский оливье."/>
+            <column name="value_en" value="Bodybuilding Olivier (наверно, который Грюнер)."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Я сейчас напоминаю Шерон Стоун из Основного инстинкта."/>
+            <column name="value_en" value="I look like Sharon Stone from Basic Instinct."/>
         </insert>
 
     </changeSet>
