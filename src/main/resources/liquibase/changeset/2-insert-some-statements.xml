@@ -142,6 +142,242 @@
             <column name="value_en" value="I look like Sharon Stone from Basic Instinct."/>
         </insert>
 
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="У нас же ещё князь, замечательный, великий... Александр Невский... и тут... э-э... один актёр... недавно провёл опрос... утыт: 'Кто такой Александр Невский?'. И 90% говорят: это наш этот… культурист замечательный из Голливуда..."/>
+            <column name="value_en"
+                    value="We also have a prince, wonderful, great... Alexander Nevsky... and then... uh... one actor... recently conducted a poll... utyt: 'Who is Alexander Nevsky?'. And 90% say: this is our this... wonderful bodybuilder from Hollywood..."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Я не употреблял анаболические стероиды, я экспериментировал с ними."/>
+            <column name="value_en" value="I didn't use anabolic steroids, I experimented with them."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Я ел куриные грудки, я ел салаты."/>
+            <column name="value_en" value="I ate chicken breasts, I ate salads."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Я видел каких-то непонятных малярийных полукомаров-полумонстров, бегающих по воде..."/>
+            <column name="value_en"
+                    value="I saw some incomprehensible malarial half-mosquitoes-half-monsters running on the water..."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Есть у меня одна задумка — отличный фэнтези типа 'Властелинов Вселенной'. Вот там будет все: и мечи, и поединки, и мускулатура."/>
+            <column name="value_en"
+                    value="I have one idea - a great fantasy like 'Lords of the Universe'. Everything will be there: swords, fights, and muscles."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Я на самом деле сильный. И обладаю связями на радио, телевидении и в пишущей прессе. Это сильное сочетание."/>
+            <column name="value_en"
+                    value="I am really strong. And I have connections in radio, television and in the writing press. This is a strong combination."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="У меня 3 хейтера: качок-дуболом и тщедушные бездарь и блоггер. 1ый мог бы тренировать 2го и 3го, а они бы его учили азбуке. Теряют время!"/>
+            <column name="value_en"
+                    value="I have 3 haters: a buffoon and a frail mediocrity and a blogger. The 1st could train the 2nd and 3rd, and they would teach him the alphabet. Losing time!"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Я спросил Арнольда, где мне лучше изучать английский язык, чтобы снимали акцент."/>
+            <column name="value_en"
+                    value="I asked Arnold where is the best place for me to study English so that I can remove my accent."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Завистники меня искренне веселят, хотя их и жаль."/>
+            <column name="value_en" value="Envious people sincerely amuse me, although I feel sorry for them."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Но я обещаю, что фильм ужасов с Александром Невским еще будет!"/>
+            <column name="value_en"
+                    value="But I promise that there will still be a horror film with Alexander Nevsky!"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="С самоиронией у меня все в порядке. Но я не занимаюсь пиаром интернет-бездарей, это они пиарят меня."/>
+            <column name="value_en"
+                    value="I'm fine with self-irony. But I'm not doing PR for Internet mediocrity, they're PR for me."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Я снимаю большое кино."/>
+            <column name="value_en" value="I make big movies."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Знаешь, что я скажу? Все бабы — гангстеры. Они стоят на каждом углу. Особенно в Москве."/>
+            <column name="value_en"
+                    value="Do you know what I'll say? All women are gangsters. They are on every corner. Especially in Moscow."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Ты что, гомик? Из мужиков еще за мной никто не бегал так долго."/>
+            <column name="value_en"
+                    value="What are you, a homo? Of the men, no one has ever run after me for so long."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Водка внутри, а снаружи бутылка."/>
+            <column name="value_en" value="Vodka inside, bottle outside."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Это не дерьмо, это расстегай."/>
+            <column name="value_en" value="It's not shit, it's pie."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Вы еще не видели морга. Там лежат те, кто прижился здесь окончательно."/>
+            <column name="value_en"
+                    value="You haven't seen the morgue yet. There are those who have taken root here completely."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Да я сам живая цитата, сам живой привет всем фильмам со Шварцнеггером."/>
+            <column name="value_en"
+                    value="I myself am a living quote, I myself am a living hello to all films with Schwarzenegger."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Второй день подряд держу первое место на Кинопоиске. Спасибо, но даавйте и Арнольда поднимайте в топ."/>
+            <column name="value_en"
+                    value="For the second day in a row I hold the first place on Kinopoisk. Thank you, but go ahead and raise Arnold to the top."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Я не бегун, я бодибилдер!"/>
+            <column name="value_en" value="I'm not a runner, I'm a bodybuilder!"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Я трижды Мистер Вселенная!"/>
+            <column name="value_en" value="I am three times Mister Universe!"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Mr. World — это не 10%, это 5% моего успеха."/>
+            <column name="value_en" value="Mr. World is not 10%, it is 5% of my success."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Стероиды — это не путь к Невскому и не путь к Шварценеггеру."/>
+            <column name="value_en" value="Steroids are not the way to Nevsky and not the way to Schwarzenegger."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Мой друг и старший товарищ — Арнольд Шварценеггер."/>
+            <column name="value_en" value="My friend and senior friend is Arnold Schwarzenegger."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Я нигде не говорил, что Арнольд мой друг."/>
+            <column name="value_en" value="I never said anywhere that Arnold is my friend."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Я самый накачанный актер в России. Слава Сильвестра Сталлоне мне обеспечена в будущем. Зачем тратить столько усилий на подготовку к соревнованиям?"/>
+            <column name="value_en"
+                    value="I am the most pumped up actor in Russia. The glory of Sylvester Stallone is guaranteed to me in the future. Why spend so much effort preparing for competitions?"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Я получил титул 'Мистер Вселенная', это именно тот титул, который носил Арнольд Шварценеггер."/>
+            <column name="value_en"
+                    value="I got the title of 'Mr. Universe', which is exactly the title that Arnold Schwarzenegger wore."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Моя победа на 'Мистер Вселенная 2010' (WBBF) встряхнула мир бодибилдинга!"/>
+            <column name="value_en"
+                    value="My victory at 'Mr. Universe 2010' (WBBF) shook up the world of bodybuilding!"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Плюшки только в выходные дни."/>
+            <column name="value_en" value="Buns only on weekends."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Я даже подумал, что нужно снять продолжение истории о Флиппере — знаменитом дельфине из старого сериала, но только чтобы в этот раз он подружился не с подростком, а со взрослым культуристом..."/>
+            <column name="value_en"
+                    value="I even thought that it was necessary to shoot a continuation of the story about Flipper - the famous dolphin from the old series, but only that this time he made friends not with a teenager, but with an adult bodybuilder..."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Я снялся во многих голливудских фильмах."/>
+            <column name="value_en" value="I have acted in many Hollywood films."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Этот фан-арт от @alexandrruzanov стал мне утешительным призом за упущенную роль в новом 'Терминаторе'."/>
+            <column name="value_en"
+                    value="This fan art by @alexandrruzanov was my consolation prize for missing out on a role in the new Terminator..."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="К 1998 году, когда уровень моей известности и популярности здесь, в России, был достаточно существенным..."/>
+            <column name="value_en"
+                    value="By 1998, when the level of my fame and popularity here in Russia was quite significant..."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="А сейчас меня уже нигде и не спрашивают о титулах. Меня воспринимают, как личность. С мышцами."/>
+            <column name="value_en"
+                    value="And now they don’t even ask me about titles anywhere. They take me as a person. With muscles."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Да, я не самый лучший культурист в России, но я самый популярный культурист в России. Разве нет?"/>
+            <column name="value_en"
+                    value="Yes, I am not the best bodybuilder in Russia, but I am the most popular bodybuilder in Russia. Is not it so?"/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Сначала я хотел создать себе имя. Имя, которое будет стоить денег."/>
+            <column name="value_en" value="At first I wanted to make a name for myself. A name that will cost money."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Я хотел сделать себе имя. Это моя цель. Имя, которое будет на слуху у всех, чтобы за него люди платили деньги."/>
+            <column name="value_en"
+                    value="I wanted to make a name for myself. It is my goal. A name that will be heard by everyone, so that people pay money for it."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru" value="Но для нашего зрителя, по большому счету, звезда этой картины — я."/>
+            <column name="value_en" value="But for our viewer, by and large, the star of this picture is me."/>
+        </insert>
+
+        <insert tableName="statements">
+            <column name="value_ru"
+                    value="Но, так или иначе, у меня есть армия зрителей в России, что помогает мне делать и международную карьеру."/>
+            <column name="value_en"
+                    value="But, one way or another, I have an army of spectators in Russia, which helps me to make an international career."/>
+        </insert>
+
     </changeSet>
 
 </databaseChangeLog>
