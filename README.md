@@ -15,7 +15,7 @@ ____
 
 ```
 $ curl --request GET \
-       --url 'https://host:port/statements/random' \
+       --url 'http://host:port/statements/random' \
        --header 'accept: application/json'
 ```
 
