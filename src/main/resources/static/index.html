@@ -1,36 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
+
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Alexander Nevsky API. API Александр Невский Курицын">
-    <meta name="keywords" content="api, alexander, nevsky, kuritsyn">
+    <meta name="keywords" content="api, alexander, nevsky, kuritsyn, александр, невский, курицын, мистер пельменная">
     <meta name="author" content="Sergey Gorodnyuk">
 
     <title>Alexander Nevsky API</title>
 
     <style>
-    .container {
-      width: 100%;
-      max-width: 1024px;
-      padding: 0 15px;
-      margin: 0 auto;
-    }
-
+        .container {
+          width: 100%;
+          max-width: 1024px;
+          padding: 0 15px;
+          margin: 0 auto;
+        }
     </style>
 </head>
+
 <body>
 <div class="container">
     <h1>Alexander Nevsky API</h1>
     <hr>
     <p><b>Alexander Nevsky API</b> - это бесплатный JSON API для получения коровых высказываний великого актера
-        Александра
-        Невского (ie. Мистер Пельменная)</p>
-    <h3 style="color:#ED760E">Использование</h3>
-    <p>GET http://host:port/statements/random</p>
+        Александра Невского (ie. Мистер Пельменная)</p>
+    <h2 style="color:#ED760E">Использование</h2>
+    <table border="1" cellpadding="5">
+        <tr>
+            <td><p>GET <a href="http://79.133.183.185:8080/statements/random">http://79.133.183.185:8080/statements/random</a>
+            </p></td>
+        </tr>
+    </table>
     <p><u>Пример ответа:</u></p>
     <p>{ "valueRu": "Абсолютли!", "valueEn": "Absolutely!" }</p>
     <hr>
 </div>
 <p style="text-align: center">Дизайн сайта является победителем конкурса ElonMuskDesignAwards</p>
 </body>
+
 </html>
