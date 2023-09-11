@@ -7,20 +7,22 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 @Getter
+@Setter
 @Entity
 @NoArgsConstructor
-@Table(name = "statements")
-public class Statement {
+@Table(name = "statistics")
+public class Statistics {
 
     @Id
     @GeneratedValue
     private Long id;
 
-    @Column(name = "value_ru")
-    private String valueRu;
+    @Column(name = "site_enter_counter")
+    private Long siteEnterCounter;
 
-    @Column(name = "value_en")
-    private String valueEn;
+    @Column(name = "api_getter_counter")
+    private Long apiGetterCounter;
 }

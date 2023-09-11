@@ -19,6 +19,7 @@ public class StatementController {
 
     @GetMapping("/random")
     public ResponseEntity<StatementDto> getRandomStatement() {
+        service.updateStatistics();
         return ResponseEntity
                 .ok(converter.convert(service.getRandomStatement()));
     }

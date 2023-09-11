@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:h2:mem:statements
     username: sa
-    password:
+    password: pwd19
     driverClassName: org.h2.Driver
   liquibase:
     changeLog: classpath:liquibase/db.changelog-master.xml
@@ -10,3 +10,5 @@ spring:
   h2:
     console:
       enabled: true
+      settings:
+        web-allow-others: true

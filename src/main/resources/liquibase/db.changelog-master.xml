@@ -6,4 +6,6 @@
         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
     <include file="changeset/1-create-table-statements.xml" relativeToChangelogFile="true"/>
     <include file="changeset/2-insert-some-statements.xml" relativeToChangelogFile="true"/>
+    <include file="changeset/3-create-table-statistics.xml" relativeToChangelogFile="true"/>
+    <include file="changeset/4-init-table-statistics.xml" relativeToChangelogFile="true"/>
 </databaseChangeLog>

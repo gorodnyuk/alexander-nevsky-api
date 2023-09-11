@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+
+    <changeSet id="3-create-table-statistics" author="Sergey Gorodnyuk">
+
+        <createTable tableName="statistics">
+
+            <column name="id"
+                    type="bigint"
+                    remarks="Идентификатор">
+                <constraints nullable="false"
+                             unique="true"
+                             primaryKey="true"
+                             primaryKeyName="pk_statistics"/>
+            </column>
+
+            <column name="site_enter_counter"
+                    type="bigint"
+                    remarks="Подсчет количества входов на сайт">
+                <constraints nullable="false"/>
+            </column>
+
+            <column name="api_getter_counter"
+                    type="bigint"
+                    remarks="Подсчет количества получения высказываний по запросу API">
+                <constraints nullable="false"/>
+            </column>
+
+        </createTable>
+
+        <addAutoIncrement tableName="statistics" columnName="id" columnDataType="bigint" startWith="1" incrementBy="1"/>
+
+    </changeSet>
+
+</databaseChangeLog>
