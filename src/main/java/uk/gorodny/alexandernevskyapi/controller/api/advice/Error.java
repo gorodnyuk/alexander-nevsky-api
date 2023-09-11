@@ -1,4 +1,4 @@
-package uk.gorodny.alexandernevskyapi.api.advice;
+package uk.gorodny.alexandernevskyapi.controller.api.advice;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

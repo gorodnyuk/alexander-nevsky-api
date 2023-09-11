@@ -1,4 +1,4 @@
-package uk.gorodny.alexandernevskyapi.api;
+package uk.gorodny.alexandernevskyapi.controller.api;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Builder;

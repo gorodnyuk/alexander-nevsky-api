@@ -1,4 +1,4 @@
-package uk.gorodny.alexandernevskyapi.api.advice;
+package uk.gorodny.alexandernevskyapi.controller.api.advice;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

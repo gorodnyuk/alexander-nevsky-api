@@ -2,7 +2,7 @@ package uk.gorodny.alexandernevskyapi.converter;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
-import uk.gorodny.alexandernevskyapi.api.StatementDto;
+import uk.gorodny.alexandernevskyapi.controller.api.StatementDto;
 import uk.gorodny.alexandernevskyapi.model.Statement;
 
 @Component
