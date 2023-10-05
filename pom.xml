@@ -12,7 +12,7 @@
 
     <groupId>uk.gorodny</groupId>
     <artifactId>alexander-nevsky-api</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <name>alexander-nevsky-api</name>
     <description>Alexander Nevsky API</description>
 
