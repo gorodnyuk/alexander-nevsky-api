@@ -3,10 +3,14 @@ server:
 
 spring:
   datasource:
-    url: jdbc:h2:mem:statements
-    username: sa
-    password: pwd19
-    driverClassName: org.h2.Driver
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: postgres
+    driverClassName: org.postgresql.Driver
+  #    url: jdbc:h2:mem:statements
+  #    username: sa
+  #    password: pwd19
+  #    driverClassName: org.h2.Driver
   liquibase:
     changeLog: classpath:liquibase/db.changelog-master.xml
     enabled: true
