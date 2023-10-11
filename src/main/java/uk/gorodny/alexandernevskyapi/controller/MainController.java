@@ -16,4 +16,9 @@ public class MainController {
         statisticsService.updateSiteEnterCounterStatistics();
         return "index";
     }
+
+    @GetMapping("/error")
+    public String error() {
+        return "error";
+    }
 }
