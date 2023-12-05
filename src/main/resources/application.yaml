@@ -1,16 +1,8 @@
 server:
   port: 80
-  error:
-    whitelabel:
-      enabled: false
-    path: /error
 
 spring:
   datasource:
-    #    url: jdbc:postgresql://localhost:5432/postgres
-    #    username: postgres
-    #    password: postgres
-    #    driverClassName: org.postgresql.Driver
     url: jdbc:h2:mem:statements
     username: sa
     password: pwd19
@@ -18,10 +10,3 @@ spring:
   liquibase:
     changeLog: classpath:liquibase/db.changelog-master.xml
     enabled: true
-  h2:
-    console:
-      enabled: true
-      settings:
-        web-allow-others: true
-  autoconfigure:
-    exclude: org.springframework.boot.autoconfigure.web.ErrorMvcAutoConfiguration
